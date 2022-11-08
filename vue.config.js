@@ -6,5 +6,13 @@ module.exports = defineConfig({
   outputDir: "docs",
   devServer: {
     host: "localhost"
+  },
+  pwa: {
+    name: 'お前のパラメーターを決めてやる！',
+    themeColor: '#2c3e50',
+    msTileColor: '#ffffff',
+    manifestOptions: {
+      short_name: 'おまパラ'
+    }
   }
 })
