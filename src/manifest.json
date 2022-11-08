@@ -1,6 +1,6 @@
 {
-    "name": "random-paramaters-for-hado",
-    "short_name": "Random Params",
+    "name": "お前のパラメーターを決めてやる！",
+    "short_name": "おまパラ",
     "icons": [
         {
             "src": "./img/icons/android-chrome-192x192.png",
